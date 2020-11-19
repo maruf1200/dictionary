@@ -1,0 +1,33 @@
+.App-intro{
+    text-align: center;
+}
+
+.container, .container-fluid {
+    margin-top: 20px;
+  }  
+
+.search-button{
+  text-align: center;
+  
+}
+ 
+#input-size{
+  width: 500px;
+  border-width: 6px;
+}
+
+#search-size{
+  margin-left: -35px;
+}
+
+/* .my-modal .modal-content {
+  background-color: #E7F0F7;
+} */
+
+/* .main{
+  background-color: #5BD47D;
+} */
+
+.nav{
+  background-color: #EEC997;
+}
